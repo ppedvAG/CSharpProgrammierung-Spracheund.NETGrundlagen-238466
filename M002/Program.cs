@@ -61,6 +61,8 @@ string pfad2 = "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\8.0.1\
 //Console.WriteLine($"Du hast {info.Key} gedrückt. Diese Taste hat den Character {info.KeyChar}");
 
 //Console.ReadKey(true); //Sorgt dafür, das der eingebene Character nicht in der Konsole ausgegeben wird
+
+Console.Write("Ausgabe ohne Zeilenumbruch");
 #endregion
 
 #region Konvertierungen
